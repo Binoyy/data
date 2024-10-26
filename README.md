@@ -1,12 +1,7 @@
 
 # Alloc8 : Official room allocation site of IIT Patna
 
-This repository is the official room allocation system built for the IIT Patna students for book their rooms with ease.
-
-# Tech Stack:
-- Frontend : React, Tailwind CSS
-- Backend : Node, Express
-- Database Management : Prisma
+This repository is the official room allocation system built for the IIT Patna students to book their rooms with ease remotely. This has been built with a **React** and **Tailwind CSS** frontend, an **Express.js** backend, and **Prisma** for database management.
 
 ## Prerequisites
 
@@ -22,7 +17,7 @@ This repository is the official room allocation system built for the IIT Patna s
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/your-username/room-allocation.git
+git clone https://github.com/Gymkhana-IIT-Patna/alloc8
 cd room-allocation
 ```
 
@@ -69,10 +64,7 @@ Contributions are welcome! Here’s how you can help:
 - **Issue Reporting**: Submit bug reports, suggestions, or feature requests using GitHub Issues.
 - **Code Contributions**: Fork the repository, create a new branch, make changes, and submit a pull request.
 
-For further details, check out the `CONTRIBUTING.md`.
-
 ## License
 
-This project is licensed under the MIT License. See `LICENSE` for more information.
 
 ---
