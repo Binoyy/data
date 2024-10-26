@@ -1,4 +1,5 @@
-
+![WhatsApp Image 2024-10-26 at 14 45 22_f2b4d9a5](https://github.com/user-attachments/assets/7e2df6f3-557e-4cdd-8051-dd03674156a6)
+---
 # Alloc8 : Official room allocation site of IIT Patna
 
 This repository is the official room allocation system built for the IIT Patna students to book their rooms with ease remotely. This has been built with a **React** and **Tailwind CSS** frontend, an **Express.js** backend, and **Prisma** for database management.
