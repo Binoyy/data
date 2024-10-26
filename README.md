@@ -63,8 +63,3 @@ cd room-allocation
 Contributions are welcome! Here’s how you can help:
 - **Issue Reporting**: Submit bug reports, suggestions, or feature requests using GitHub Issues.
 - **Code Contributions**: Fork the repository, create a new branch, make changes, and submit a pull request.
-
-## License
-
-
----
