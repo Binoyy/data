@@ -2,7 +2,7 @@
 ---
 # Alloc8 : Official room allocation site of IIT Patna
 
-This repository is the official room allocation system built for the IIT Patna students to book their rooms with ease remotely. This has been built with a **React** and **Tailwind CSS** frontend, an **Express.js** backend, and **Prisma** for database management.
+This repository is the official room allocation system built for IIT Patna students to book their rooms with ease remotely. This has been built with a **React** and **Tailwind CSS** frontend, an **Express.js** backend, and **Prisma** for database management.
 
 ## Prerequisites
 
