@@ -58,32 +58,6 @@ cd room-allocation
 
 ---
 
-## Deployment
-
-### Frontend Deployment (Netlify)
-To deploy the client on Netlify:
-1. Move to the client directory:
-    ```sh
-    cd client
-    ```
-2. Deploy using Netlify CLI:
-    ```sh
-    netlify deploy --prod
-    ```
-
-### Backend Deployment (PM2)
-To deploy the server with PM2:
-1. Move to the server directory:
-    ```sh
-    cd server
-    ```
-2. Start the server using PM2:
-    ```sh
-    pm2 start index.js
-    ```
-
----
-
 ## Contributing
 
 Contributions are welcome! Here’s how you can help:
