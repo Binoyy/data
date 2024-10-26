@@ -1,5 +1,5 @@
 
-# Room Allocation System
+# Alloc8 : Official room allocation site of IIT Patna
 
 This project is a room allocation system built with a **React** and **Tailwind CSS** frontend, an **Express.js** backend, and **Prisma** for database management. The system is ideal for room allocation in educational institutions or organizations, providing a streamlined interface for administrators and efficient room assignment processes.
 
